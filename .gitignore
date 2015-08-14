@@ -1,0 +1,17 @@
+node_modules
+dist
+.tmp
+.map
+.sass-cache
+client/bower_components
+npm-debug.log
+newrelic_agent.log
+.rebooted
+version.json
+
+*.map
+
+client/styles/main.css
+client/styles/main.css.map
+
+.idea
